@@ -1,0 +1,24 @@
+body {
+	animation-name: backgroundColorPalette;
+	animation-duration: 10s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+}
+
+@keyframes backgroundColorPalette{
+	0% {
+		background: #EE6055;
+	}
+	25% {
+		background: #60D394;
+	}
+	50% {
+		background: #AAF683;
+	}
+	75% {
+		background: #FFD97D;
+	}
+	100% {
+		background: #FF9B85;
+	}
+}
