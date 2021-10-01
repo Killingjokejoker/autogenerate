@@ -1,2 +1,2 @@
-# autogenerate.github.io
+https://killingjokejoker.github.io/autogenerate/
 autogenerate
